@@ -1,0 +1,1 @@
+   frame           length           s11             s22            s33              s12             Inv3         maxInPlanePri     maxPrin         midPrin        minInPlanePrin     minPrin         mises            tresca    
